@@ -20,7 +20,7 @@ def main():
         additional_authorized_imports=["time", "datetime", "PIL"],
     )
 
-    manager_agent.run("How many years ago was Stripe founded?")
+    manager_agent.run("How many years ago was Apple founded?")
 
 
 if __name__ == "__main__":
