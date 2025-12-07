@@ -1,0 +1,11 @@
+smolagents
+markdownify
+duckduckgo-search
+spaces
+gradio-tools
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+datasets
+torch
